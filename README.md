@@ -72,3 +72,9 @@ Na segunda sprint, focamos em colocar a aplicação no ar usando a plataforma **
 | **Carolina Borba** | cbb3@cesar.school | Designer |
 | **Mateus Coutinho** | mmc6@cesar.school | Designer |
 | **Pedro Feitosa** | pamf@cesar.school | Designer |
+
+---
+
+## 🎥 Explicação do código do projeto Django - BZU TECH
+
+[https://youtu.be/AJv6ibi3YPE]
